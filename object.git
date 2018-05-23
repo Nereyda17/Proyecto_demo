@@ -1,6 +1,0 @@
-$ find .git/objects
-.git/objects
-.git/objects/info
-.git/objects/pack
-$ find .git/objects -type f
-$
